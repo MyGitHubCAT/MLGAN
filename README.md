@@ -1,5 +1,12 @@
 # MLGAN
-MLGAN for traffic data imputation 
-Considering that the paper has not yet been accepted, we have some concerns about publicizing the code. Therefore, we will gradually publicize the code on Github and provide detailed instructions to ensure that the research content in this paper can be reproduced reasonably. 
-If you are interested in the study, you can contact the authors in advance. We will make part of the code available to you in advance for research purposes, within reason.
-You can contact the author for support by email. 405648708@qq.com or 405648708@sjtu.edu.cn
+This is the code demo for the model. These codes are used to test the performance of the model.
+The following are some libraries that need to be used during the code execution process。
+
+pip install tensorflow
+pip install spektral
+
+
+The data file contains traffic flow data for a period of time. And the experiment data are distrubuted by 277 senors in the pems database
+the pems is aviliable at http://pems.dot.ca.gov
+
+We suggest that you use jupyter notebook to open the file.
