@@ -11,5 +11,6 @@ the pems is aviliable at http://pems.dot.ca.gov
 The original data is already partially corrupted, which may affect the restoration of the model
 
 We suggest that you use jupyter notebook to open the file.
+During operation, the data format must be consistent. You can contact us for support.
 
 
